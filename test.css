@@ -1,0 +1,13 @@
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    float: left;
+    font-size: 24px;
+    color: #fff;
+    border: 2px solid #000f6e;
+}
+.woocommerce #payment #place_order:hover, 
+.woocommerce-page #payment #place_order:hover {
+    float: left;
+    font-size: 24px;
+    color: #000f6e;
+    border: 2px solid #ff6600;
+}
